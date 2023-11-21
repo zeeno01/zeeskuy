@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  background-image: url(bnh.jpg);
+  background-size: cover;
+  backdrop-filter: blur(3px);
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+.container
+font-family: poppins, arial, sans-serif;
+color: white
+display: flex;
+flex-direction: column;
+justify-content:center;
+margin-top: 20px;
+}
+background-image: url(mypic.png);
+backdrop-size: cover;
+widht: 100px;
+height: 100px;
+border-radius: 50%;
+border: 3px solid #ccc;
+margin-bottom: 100px;
+}
+.portfolio-handle
+font-size: 24px;
+margin-bottom: 20px;
+}
